@@ -1,4 +1,4 @@
-# GPGS-Tutorial
-Google Play Games Services Tutorials.
+# GPGS-Tutorials 
+Google Play Games Services Tutorials for Android in Unity 
 
 `1. Google SignIn.`
