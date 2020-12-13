@@ -1,0 +1,6 @@
+ExternalDependencyManager/
+GooglePlayGames/
+Plugins/
+
+*.meta
+*.json
