@@ -3,4 +3,4 @@ Google Play Games Services Tutorials for Android in Unity
 
 `1. Google SignIn.`
 
-# Change to `master` branch
+ goto https://github.com/sunil42/GPGS-Tutorial/tree/master
