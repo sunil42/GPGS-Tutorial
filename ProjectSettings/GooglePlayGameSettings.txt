@@ -1,0 +1,9 @@
+lastUpgrade=01013
+proj.pluginVersion=0.10.13
+proj.AppId=180914867195
+and.BundleId=com.blossomgames.GPGSTutorial
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e180914867195%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.blossomgames.GPGSTutorial%3c%2fstring%3e%0d%0a++%3c%21--achievement+Won+a+Race--%3e%0d%0a++%3cstring+name%3d%22achievement_won_a_race%22+translatable%3d%22false%22%3eCgkI-5f3-qEFEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Top+5--%3e%0d%0a++%3cstring+name%3d%22achievement_top_5%22+translatable%3d%22false%22%3eCgkI-5f3-qEFEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Hidden+Reward--%3e%0d%0a++%3cstring+name%3d%22achievement_hidden_reward%22+translatable%3d%22false%22%3eCgkI-5f3-qEFEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=180914867195-snktb6844mi3i2cp93rpj2ui92o0ag6r.apps.googleusercontent.com
+android.SetupDone=true
